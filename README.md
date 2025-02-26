@@ -2,7 +2,6 @@
 
 ![Github](https://img.shields.io/badge/-Github-333000?style=flat&logo=Github&logoColor=white)
 
-
 <img width="40%" align="right" alt="Rengoku" src="https://i.imgur.com/DGVsXwn.png"/>
 
 - 👨🏽‍💻 Technology and programming enthusiast;
@@ -14,25 +13,24 @@
 **Languages and Tools:**
 
 <p>
-  <code><img width="10%"src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"style="background-color: #ffffff;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" style="background-color: white;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="background-color: #ffffff;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="background-color: white;"></code>
   <br/>
-  <code><img width="10%" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="background-color: white;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png" style="background-color: white;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="background-color: white;"></code>
   <br/>
-  <code><img width="10%" src="https://seeklogo.com/images/A/azure-sql-logo-3AE930D2AF-seeklogo.com.png" style="background-color: white;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="background-color: white;"></code>
-  <code><img width="10%" src="https://www.nichetechsolutions.com/public/images/service/x170981713642.png.pagespeed.ic.e0U65KWHz3.png" style="background-color: white;"></code>
-  <br />
-  <code><img width="10%" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" style="background-color: white;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png"style="background-color: white;"></code>
-  <code><img width="10%" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" style="background-color: white;"></code>
-  <br />
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="background-color: white;"></code>
+  <br/>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="background-color: white;"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="background-color: white;"></code>
+  <br/>
 </p>
 
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Abnerluisz/Abnerluisz.svg" />
+  <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=Abnerluisz&color=blue&style=flat-square" />
 </p>
-
